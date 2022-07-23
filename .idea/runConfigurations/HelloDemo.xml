@@ -1,5 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="HelloDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="ALTERNATIVE_JRE_PATH" value="17" />
     <option name="MAIN_CLASS_NAME" value="test.base.demo.HelloDemo" />
     <module name="test.base" />
     <extension name="coverage">
